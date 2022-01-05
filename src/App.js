@@ -14,7 +14,7 @@ function App() {
       <Router>
         <Navbar />
         <Routes>
-          <Route path="/rylee816.github.io" element={<Home />} />
+          <Route path="/rylee816.github.io/React-Travel-Demo-Website" element={<Home />} />
           <Route path="/products" element={<Products />} />
           <Route path="/services" element={<Services />} />
           <Route path="/sign-up" element={<SignUp />} />

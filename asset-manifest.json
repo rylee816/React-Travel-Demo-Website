@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/React-Travel-Demo-Website/home/static/css/main.a31406d7.css",
-    "main.js": "/React-Travel-Demo-Website/home/static/js/main.a7475999.js",
-    "static/js/787.df2ab43e.chunk.js": "/React-Travel-Demo-Website/home/static/js/787.df2ab43e.chunk.js",
-    "static/media/img-5.jpg": "/React-Travel-Demo-Website/home/static/media/img-5.0036fb5f7880dde312a8.jpg",
-    "static/media/img-home.jpg": "/React-Travel-Demo-Website/home/static/media/img-home.e0ad2063f924e266b1a1.jpg",
-    "static/media/img-8.jpg": "/React-Travel-Demo-Website/home/static/media/img-8.1888676ec69d4d7cd1e8.jpg",
-    "index.html": "/React-Travel-Demo-Website/home/index.html",
-    "main.a31406d7.css.map": "/React-Travel-Demo-Website/home/static/css/main.a31406d7.css.map",
-    "main.a7475999.js.map": "/React-Travel-Demo-Website/home/static/js/main.a7475999.js.map",
-    "787.df2ab43e.chunk.js.map": "/React-Travel-Demo-Website/home/static/js/787.df2ab43e.chunk.js.map"
+    "main.css": "/React-Travel-Demo-Website/static/css/main.4c9f3ede.css",
+    "main.js": "/React-Travel-Demo-Website/static/js/main.766de9f9.js",
+    "static/js/787.df2ab43e.chunk.js": "/React-Travel-Demo-Website/static/js/787.df2ab43e.chunk.js",
+    "static/media/img-5.jpg": "/React-Travel-Demo-Website/static/media/img-5.0036fb5f7880dde312a8.jpg",
+    "static/media/img-home.jpg": "/React-Travel-Demo-Website/static/media/img-home.e0ad2063f924e266b1a1.jpg",
+    "static/media/img-8.jpg": "/React-Travel-Demo-Website/static/media/img-8.1888676ec69d4d7cd1e8.jpg",
+    "index.html": "/React-Travel-Demo-Website/index.html",
+    "main.4c9f3ede.css.map": "/React-Travel-Demo-Website/static/css/main.4c9f3ede.css.map",
+    "main.766de9f9.js.map": "/React-Travel-Demo-Website/static/js/main.766de9f9.js.map",
+    "787.df2ab43e.chunk.js.map": "/React-Travel-Demo-Website/static/js/787.df2ab43e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a31406d7.css",
-    "static/js/main.a7475999.js"
+    "static/css/main.4c9f3ede.css",
+    "static/js/main.766de9f9.js"
   ]
 }

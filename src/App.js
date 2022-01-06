@@ -7,20 +7,24 @@ import Products from "./components/pages/Products";
 import SignUp from "./components/pages/SignUp";
 import Footer from "./components/Footer";
 import Trailer from "./components/pages/Trailer";
+import Layout from "./components/Layout";
 
 function App() {
   return (
     <div className="App">
       <Router>
-        <Navbar />
+        {/* <Navbar /> */}
+        <Layout>
         <Routes>
+          <Route path="https://rylee816.github.io/React-Travel-Demo-Website/" element={<Home />} />
           <Route path="/" element={<Home />} />
           <Route path="/products" element={<Products />} />
           <Route path="/services" element={<Services />} />
           <Route path="/sign-up" element={<SignUp />} />
           <Route path="/trailer" element={<Trailer />} />
         </Routes>
-        <Footer />
+        </Layout>
+        {/* <Footer /> */}
       </Router>
     </div>
   );

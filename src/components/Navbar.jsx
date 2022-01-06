@@ -34,7 +34,7 @@ function Navbar() {
     <>
       <nav className="navbar">
         <div className="navbar-container">
-          <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
+          <Link to="/React-Travel-Demo-Website/" className="navbar-logo" onClick={closeMobileMenu}>
             <h4>XPL</h4><i className="fas fa-meteor"></i><h4>R</h4>
           </Link>
           <div className="menu-icon" onClick={handleClick}>
@@ -44,7 +44,7 @@ function Navbar() {
           </div>
           <ul className={click ? "nav-menu active" : "nav-menu"}>
             <li className="nav-item">
-              <Link to="/" className="nav-link" onClick={closeMobileMenu}>
+              <Link to="/React-Travel-Demo-Website/" className="nav-link" onClick={closeMobileMenu}>
                 Home
               </Link>
             </li>

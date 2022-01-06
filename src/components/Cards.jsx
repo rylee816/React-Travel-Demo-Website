@@ -1,11 +1,11 @@
 import React from 'react'
 import CardItem from './CardItem'
 import "./Cards.css"
-import image2 from '../images/img-2.jpg'
-import image3 from '../images/img-3.jpg'
-import image4 from '../images/img-4.jpg'
-import image8 from '../images/img-8.jpg'
-import image9 from '../images/img-9.jpg'
+import image2 from 'images/img-2.jpg'
+import image3 from 'images/img-3.jpg'
+import image4 from 'images/img-4.jpg'
+import image8 from 'images/img-8.jpg'
+import image9 from 'images/img-9.jpg'
 
 function Cards() {
     return (
